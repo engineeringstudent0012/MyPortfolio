@@ -5,18 +5,20 @@ export const featuredPortfolio = [
         img:"assets/elucidconsultants.png",
         url: "https://elucidconsultants.com/",
         tools:'assets/wordpress.png',
-    }, {
-        id: 2,
-        title: "Ashish Gautam Portfolio",
-        img:"assets/Portfolio.png",
-        url: "#"
     },
-    {
-        id: 3,
+     {
+        id: 2,
         title: "Instagram Clone",
         img:"https://www.logo.wine/a/logo/Instagram/Instagram-Wordmark-Logo.wine.svg",
         url: "https://github.com/engineeringstudent0012/Instagram"
     },
+    {
+        id: 3,
+        title: "Amazon Clone",
+        img:"https://nutshellschool.com/wp-content/uploads/2020/04/Unknown-Facts-About-Amazo-818x490.jpg",
+        url: "#"
+    },
+   
     {
         id: 4,
         title: "Google Docs Clone ",
@@ -28,14 +30,14 @@ export const featuredPortfolio = [
         title: "Google Search Clone",
         img:
         'https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43HXCNftVJVttoo4ucl7rsMASXW3Xr6GlXURCubE1tA=w4494-h2528-rw',
-        url:"https://github.com/engineeringstudent0012/google_search"
+        url:"https://googlclone-v1.web.app/"
     },
     {
         id: 6,
-        title: "To-Do App",
+        title: "Gmail Clone",
         img:
-            "https://cdn.pixabay.com/photo/2015/08/28/12/46/checklist-911841_1280.png",
-        url:"https://github.com/engineeringstudent0012/Todo_App"
+            "https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo-768x579.jpg",
+        url:"https://gmail-clone-frontend.herokuapp.com/"
     },
     {
         id: 7,
@@ -46,7 +48,7 @@ export const featuredPortfolio = [
     },
     {
         id: 8,
-        title: "Socks Nepal Is Under Construction",
+        title: "Under Construction",
         img:
             "https://images.unsplash.com/photo-1615486364462-ef6363adbc18?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
         url:'#',
